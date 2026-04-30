@@ -3,9 +3,9 @@
     "Author": "Skullbot",
     "Name": "Custom XIVCombo",
     "Description": "Custom XIVCombo",
-    "Punchline": "Event more XIVCombo",
+    "Punchline": "Even more XIVCombo",
     "InternalName": "CustomXIVCombo",
-    "AssemblyVersion": "2.0.0.0",
+    "AssemblyVersion": "2.0.0.1",
     "RepoUrl": "https://github.com/TheSkullbot/CustomXIVCombo",
     "ApplicableVersion": "any",
     "Tags": [
@@ -17,10 +17,10 @@
     "IconUrl": "https://github.com/TheSkullbot/CustomXIVCombo/raw/main/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1777553300,
+    "LastUpdated": 1777558507,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/TheSkullbot/CustomXIVCombo/releases/download/2.0.0.0/CustomXIVCombo.zip",
-    "DownloadLinkTesting": "https://github.com/TheSkullbot/CustomXIVCombo/releases/download/2.0.0.0/CustomXIVCombo.zip",
-    "DownloadLinkUpdate": "https://github.com/TheSkullbot/CustomXIVCombo/releases/download/2.0.0.0/CustomXIVCombo.zip"
+    "DownloadLinkInstall": "https://github.com/TheSkullbot/CustomXIVCombo/releases/download/2.0.0.1/CustomXIVCombo.zip",
+    "DownloadLinkTesting": "https://github.com/TheSkullbot/CustomXIVCombo/releases/download/2.0.0.1/CustomXIVCombo.zip",
+    "DownloadLinkUpdate": "https://github.com/TheSkullbot/CustomXIVCombo/releases/download/2.0.0.1/CustomXIVCombo.zip"
   }
 ]
