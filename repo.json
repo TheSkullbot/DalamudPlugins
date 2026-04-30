@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Skullbot",
+    "Name": "Custom XIVCombo",
+    "Description": "Custom XIVCombo",
+    "Punchline": "Event more XIVCombo",
+    "InternalName": "CustomXIVCombo",
+    "AssemblyVersion": "1.7.2",
+    "RepoUrl": "https://github.com/TheSkullbot/CustomXIVCombo",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "skullbot",
+      "combos",
+      "combo"
+    ],
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://github.com/TheSkullbot/CustomXIVCombo/raw/main/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1766263823,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/TheSkullbot/CustomXIVCombo/releases/download/1.0.0/CustomXIVCombo.zip",
+    "DownloadLinkTesting": "https://github.com/TheSkullbot/CustomXIVCombo/releases/download/1.0.0/CustomXIVCombo.zip",
+    "DownloadLinkUpdate": "https://github.com/TheSkullbot/CustomXIVCombo/releases/download/1.0.0/CustomXIVCombo.zip"
+  }
+]
